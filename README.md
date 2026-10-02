@@ -15,7 +15,7 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 
 ## L'expérience
 
-![Schéma de navigation](navigation.png)
+![map-of-internet](map-of-the-internet.jpg)
 
 ![Écran principal](ecran-principal.jpg)
 
